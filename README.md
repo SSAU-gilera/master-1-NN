@@ -8,7 +8,7 @@
 
 | Лабораторная работа | Вариант |
 | :------------------ | :------ |
-| 1                   | 4 - Подбери себе друга https://www.kaggle.com/jessicali9530/stanford-dogs-dataset (10-20 видов)    |
+| 1                   | 4 - Подбери себе друга   |
 | 2                   | 1 - Финансовая аналитика      |
 | 3                   | 2 - Анализ тональности (sentiment analysis)»       |
 
@@ -25,6 +25,8 @@
 Реализовать нейронную сеть для классификации изображений аналогично примеру
 
 Пример: https://www.tensorflow.org/tutorials/keras/classification
+
+Датасет:  https://www.kaggle.com/jessicali9530/stanford-dogs-dataset (10-20 видов) 
 
 ## Лабораторная работа 2
 
